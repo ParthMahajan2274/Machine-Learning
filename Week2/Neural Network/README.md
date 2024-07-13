@@ -1,0 +1,3 @@
+## Done
+The file **NNAssignmentbyhint.ipynb** has 100% accuracy.
+While the one I tried **neuralnetwork.ipynb** has about 70-80% accuracy.The mistake I did was I did split the data using train_test_split from sklearn.model_selection,changing that to take,skip method gives 100% accuracy in my model too...
